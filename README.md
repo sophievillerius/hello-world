@@ -1,2 +1,5 @@
 # hello-world
-My first project as a Java developer
+
+Hello everyone!
+
+My name is Sophie and I really want to become a Java developer, because I love Java (the island and the coffee) and Javanese (the language)
